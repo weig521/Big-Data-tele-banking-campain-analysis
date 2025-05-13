@@ -3,3 +3,5 @@
 Scalable data analysis with pySpark to improve efficiency and effectiveness of tele bank marketing
 
 HTML and notebook for the code; ppt for reference of the video presentation: https://youtu.be/v-YYpvXKqUw
+
+Previous python machine learning analysis: https://github.com/weig521/Data-Mining-Classification-tele-banking-campain-analysis
